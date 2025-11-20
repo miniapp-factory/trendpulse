@@ -1,0 +1,46 @@
+
+# 2025-11-20 18:49:06.707050
++Code the following app
++```
++Idea: A lightweight web app that shows the trend (bullish / bearish / sideways) for selected coins based on simple indicators.
++User goal: Quickly understand what’s happening in the market without opening a bunch of charts.
++Core features (MVP):
++
++* Connection to an exchange API (Binance, Bybit, Coinbase, etc.).
++* Coin list with a trend indicator (icons / colors).
++* Basic indicators: EMA, RSI, MACD (on 1–2 timeframes, e.g., 1h and 4h).
++* Simple dashboard with filters: by trend, volume, volatility.
++
++Development plan:
++
++1. Choose an exchange and integrate its public market data API.
++2. Implement indicator calculations (on the backend or directly in the frontend).
++3. Build a simple UI: coin table + trend status.
++4. Add filters and sorting.
++5. Deploy as a web app (e.g., Vercel/Netlify).
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 18:49:06.799138
++Code the following app
++```
++Idea: A lightweight web app that shows the trend (bullish / bearish / sideways) for selected coins based on simple indicators.
++User goal: Quickly understand what’s happening in the market without opening a bunch of charts.
++Core features (MVP):
++
++* Connection to an exchange API (Binance, Bybit, Coinbase, etc.).
++* Coin list with a trend indicator (icons / colors).
++* Basic indicators: EMA, RSI, MACD (on 1–2 timeframes, e.g., 1h and 4h).
++* Simple dashboard with filters: by trend, volume, volatility.
++
++Development plan:
++
++1. Choose an exchange and integrate its public market data API.
++2. Implement indicator calculations (on the backend or directly in the frontend).
++3. Build a simple UI: coin table + trend status.
++4. Add filters and sorting.
++5. Deploy as a web app (e.g., Vercel/Netlify).
++```
++
++Generate an app logo and update the app metadata title and description.
