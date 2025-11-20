@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Trend Pulse";
+export const description = "A lightweight web app that shows the trend (bullish / bearish / sideways) for selected coins based on simple indicators.";
 export const url = process.env.NEXT_PUBLIC_URL;
